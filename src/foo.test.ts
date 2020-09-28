@@ -1,4 +1,4 @@
-import { addOne } from './foo.ts';
+import { addOne } from './foo';
 
 
 test('basic', () => {
